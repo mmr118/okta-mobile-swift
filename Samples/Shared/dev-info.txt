@@ -1,0 +1,25 @@
+notmoni@notmoni.com
+_okta
+
+NMA Okta Dev
+
+clientID:
+0oafgavvs9bD1Zlst5d7
+
+
+grant types:
+    - Auth. Code
+    - Refresh Token    
+    - Device Auth. 
+    - Token Exchange
+
+redirctURI:
+    - com.okta.dev-44242259:/callback
+
+sign-out redirect URI:    
+    - com.okta.dev-44242259:/
+
+access:
+    - everyone in org
+
+

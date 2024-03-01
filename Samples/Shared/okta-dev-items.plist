@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>domain</key>
+	<string>dev-44242259.okta.com</string>
+	<key>user</key>
+	<string>notmoni@notmoniapps.com</string>
+	<key>suffix</key>
+	<string>_okta</string>
+	<key>apps</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>NMA Okta Dev</string>
+			<key>issuer</key>
+			<string>https://dev-44242259.okta.com/oauth2/default</string>
+			<key>clientId</key>
+			<string>0oafgavvs9bD1Zlst5d7</string>
+			<key>scopes</key>
+			<dict>
+				<key>openid</key>
+				<true/>
+				<key>profile</key>
+				<true/>
+				<key>offline_access</key>
+				<true/>
+				<key>device_sso</key>
+				<true/>
+			</dict>
+			<key> redirectUri</key>
+			<array>
+				<string>com.okta.dev-44242259:/callback</string>
+			</array>
+			<key>logoutRedirectUri</key>
+			<array>
+				<string>com.okta.dev-44242259:/</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
