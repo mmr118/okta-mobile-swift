@@ -503,7 +503,7 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1330;
+				LastSwiftUpdateCheck = 1530;
 				LastUpgradeCheck = 1420;
 				TargetAttributes = {
 					92088F8927A9936D00A4DC1B = {
@@ -959,7 +959,7 @@
 				CODE_SIGN_ENTITLEMENTS = "WebSignIn (iOS)/WebSignIn/WebSignIn.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 4DHQU43U3E;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "WebSignIn (iOS)/WebSignIn/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Web Sign In";
@@ -973,7 +973,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.okta-sample.WebSignIn${SAMPLE_CODE_DISAMBIGUATOR}";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.notmoniapps.example.okta-sample.WebSignIn";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -990,7 +990,7 @@
 				CODE_SIGN_ENTITLEMENTS = "WebSignIn (iOS)/WebSignIn/WebSignIn.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 4DHQU43U3E;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "WebSignIn (iOS)/WebSignIn/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Web Sign In";
@@ -1004,7 +1004,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.okta-sample.WebSignIn${SAMPLE_CODE_DISAMBIGUATOR}";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.notmoniapps.example.okta-sample.WebSignIn";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
